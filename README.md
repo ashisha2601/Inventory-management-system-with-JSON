@@ -16,4 +16,3 @@ Features:
 - Updating Sales in csv
 
 
-Thank you for checking out the Inventory Management Project using JSON. 
